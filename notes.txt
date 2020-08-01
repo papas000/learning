@@ -1,0 +1,14 @@
+arrays and objects in javascript are stored by reference, means: the values are not copied, the new variable only points to the previous one
+
+
+cheapskate.com
+
+
+create a javascript object index and put it on a website
+
+
+115 alle Aemte, ein Nummer
+
+
+xuv27914@eoopy.com    	fb drop		PLUS 500
+qvy99660@cuoly.com	portfolio
